@@ -27,6 +27,26 @@ share/python-wheels/
 MANIFEST
 
 # PyInstaller
+# Environments
+.env
+
+# Virtual environments
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Google Service Account JSON
+credentials.json
+*.json
+
+# Ignore tracking files specific to the user
+updatedtitles.json
+
+# Ignore local uploads folder
+uploads/
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
