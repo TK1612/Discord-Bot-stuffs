@@ -15,5 +15,8 @@ A Discord bot that scans a local directory, uploads files to Pixeldrain via thei
    pip install -r requirements.txt
 2. Put in all the necessary infos
 3. Run the bot
-
+   ```bash
+   cd BASE_UPLOAD_FOLDER
+   python bot.py
+  
 ![649178036_950205537550061_276526426078080711_n](https://github.com/user-attachments/assets/6f7abce4-5bd4-434f-8828-5a20f86740b7)
